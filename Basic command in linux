@@ -1,0 +1,7 @@
+Linux Commands (Don’t do any other things because it may affect my code and the servere):
+cd --- open a dictionary
+ll -- list all files
+pwd -- check the current location
+
+Once login in:
+conda activate pytorch
